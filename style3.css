@@ -1264,11 +1264,14 @@ margin: 5px 0px 5px 0px;
       .technologies{
           font-size: 12px;
       }
-     .icon ul{
-     display: flex;
-    
-    justify-content: right;
-    }
+     .icon{
+       display:flex;
+       justify-content:right;
+       }
+       #icon2{
+       display:flex;
+       justify-content:left;
+       }
       #project2{
           top: 100px;
       margin-left: 0px;
